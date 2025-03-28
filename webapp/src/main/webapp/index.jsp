@@ -4,12 +4,12 @@
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="White">  
+<body bgcolor="Blue">  
 <br>  
 <br>  
 <form>  
   
-<label> First-ame </label>         
+<label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
