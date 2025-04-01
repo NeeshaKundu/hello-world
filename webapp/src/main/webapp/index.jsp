@@ -3,8 +3,8 @@
 <title>  
 Registration Page  
 </title>  
-</head>  
-<body bgcolor="Yellow">  
+</head> 
+<body bgcolor="Blue">  
 <br>  
 <br>  
 <form>  
@@ -62,3 +62,4 @@ Re-type password:
 </form>  
 </body>  
 </html>  
+
